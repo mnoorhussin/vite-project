@@ -7,11 +7,11 @@ export default [
 		workUrl: 'https://github.com/mnoorhussin/Management-Inventory',
 	},
 	{
-		title: "Shaif'f Cuisine",
+		title: "Portfolio",
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/shaif-s-cuisine/main/readmeImg/banner.png',
-		tech: ['HTML', 'CSS', 'Netlify'],
-		workUrl: 'https://github.com/ShaifArfan/shaif-s-cuisine',
+			'https://user-images.githubusercontent.com/16956388/192545920-2f63bed6-4c5e-4a6a-a932-163bd4ff925d.png',
+		tech: ['React JS', 'Tailwind CSS', 'Vite JS'],
+		workUrl: 'https://github.com/mnoorhussin/vite-project',
 	},
 	{
 		title: "MX PMI",
