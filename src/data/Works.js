@@ -21,10 +21,10 @@ export default [
 		workUrl: 'https://github.com/mnoorhussin/MX-PMI',
 	},
 	{
-		title: 'Artistic',
+		title: 'Cryptocurrency Daily Prices',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/artistic/main/readmeImg/banner.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/artistic',
+			'https://user-images.githubusercontent.com/16956388/192713546-3b51f24d-b79a-4844-b8ee-88bdbd589238.png',
+		tech: ['Python', 'Streamlit', 'Yahoo Finance'],
+		workUrl: 'https://github.com/mnoorhussin/Crypto-Tracker',
 	},
 ];
