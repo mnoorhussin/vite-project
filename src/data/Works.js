@@ -13,7 +13,7 @@ export default [
 		tech: ['React JS', 'Tailwind CSS', 'Vite JS'],
 		workUrl: 'https://github.com/mnoorhussin/vite-project',
 	},
-	{
+	{ 
 		title: "MX PMI",
 		imgUrl:
 			'https://user-images.githubusercontent.com/16956388/192523363-af9e9a2c-0f98-4de4-94fa-abe85d13afb5.jpg',
