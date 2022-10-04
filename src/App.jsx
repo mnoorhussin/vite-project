@@ -42,7 +42,6 @@ function App() {
 					<HeroSection />
 					<Services />
 					<Works />
-					<About />
   				 <Footer/> 
 				</div>
 			</div>

@@ -8,10 +8,7 @@ function About() {
       <div className="w-full md:w-6/12">
         <SectionTitle>About Me</SectionTitle>
         <p className="text-md text-gray-600 dark:text-gray-300">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          veniam dolor consectetur pariatur explicabo, iure nulla. Dolor
-          debitis, natus cum ad, fugiat excepturi minima culpa atque modi
-          accusantium vel voluptatem?
+
         </p>
         <a
           href="mailto:muste.io"

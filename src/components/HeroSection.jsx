@@ -8,8 +8,9 @@ function HeroSection() {
 					Hi, This is Mustafa
 				</h1>
 				<p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
-					Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi rerum
-					quia harum eaque, quae laboriosam quisquam distinctio{' '}
+				Junior Front-End Developer with 2+ years of experience in the Technology domain.
+         Supportive and enthusiastic team player .
+          Ability and willingness to innovate and learn new technologies, quick learner passionate about development. {' '}
 				</p>
 				<a
 					href="#works"

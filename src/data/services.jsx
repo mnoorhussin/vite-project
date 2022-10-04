@@ -8,18 +8,18 @@ export default [
 		title: 'Web Design',
 		icon: <MdWeb className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Document Object Model (DOM), Responsive Web Design, Html5, Bootstrap (Front-End Framework), Cascading Style Sheets (CSS)			',
 	},
 	{
 		title: 'Ui Design',
 		icon: <FaHandHoldingHeart className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Adobe XD, UX Research, Usability Testing, User Experience (UX), User Experience Design (UXD), Figma, Wireframe, Prototype',
 	},
 	{
 		title: 'Web Development',
 		icon: <VscCode className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'HTML/CSS, JavaScript, React, Analytical, Responsive design, Front-End Web Development, Test-Driven Development, Object-Oriented Programming (OOP)	',
 	},
 ];
