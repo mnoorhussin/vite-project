@@ -1,5 +1,6 @@
 import React from "react";
-import { AiFillGithub } from 'react-icons/vsc';
+import { AiOutlineGithub } from 'react-icons/ai';
+import { AiOutlineTwitter } from 'react-icons/ai';
 
 function Footer() {
   return (
@@ -13,8 +14,6 @@ function Footer() {
       >
         hi@muste.io
       </a>
-      <a href="https://github.com/mnoorhussin">AiFillGithub</a>
-      <a href="https://github.com/mnoorhussin"><AiFillGithub /></a>
       <p className="text-xs mt-2 text-gray-500">
         {new Date().getFullYear()}. All rights reserved ©
       </p>
